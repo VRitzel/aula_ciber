@@ -1,0 +1,18 @@
+Criar os seguinte segredos no git hub
+
+URL_TST
+ubuntu@15.228.50.12
+
+URL_PRD
+ubuntu@15.228.50.12
+
+SONAR_TOKEN
+a6981b55326016afac6e4673392b33605b768adb
+
+PASTA_PROJETO
+/var/www/SEU_NOME_PIPE_ULTIMO_NOME_SEM_CARACTER_ESPECIAL
+
+KEYPAR_RSA
+COLCAR_O_CONTEUDO_DO_ARQUIVO_ID_RSA
+
+Pare melhor entender, abrir os slides da Aula 10 DevSecOps e 11 Dast Sast.
